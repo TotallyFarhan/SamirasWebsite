@@ -1,0 +1,64 @@
+* {
+    text-align: center;
+    font-family: "Indie Flower";
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 75px;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.image {
+    width: 75%;
+    margin: 50px auto;
+    text-align: center;
+    padding: 50px;
+    border-radius: 50px;
+}
+
+h2, img {
+    margin: 10px;
+}
+
+#image1 {
+    background-color: orange;
+}
+
+#image2 {
+    background-color: #02BADA;
+    color: white;
+}
+
+#image3 {
+    background: #FF5555;
+    color: white;
+}
+
+#image4 {
+    background-color: purple;
+    color: white;
+}
+
+#image5 {
+    background-color: yellow;
+}
+
+#image5 img {
+    border: solid 13px white;
+}
+
+.hyperlink {
+    text-align: center;
+    margin-top: 700px;
+    font-size: 25px;
+}
